@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: modules
+Version: 0.1
+Summary: project second task python course
+Home-page: https://github.com/Kaybel/python_course
+Author: alejandra
+Author-email: kblmrtnz@gmail.com
+Requires-Dist: setuptools
+Requires-Dist: wheel
